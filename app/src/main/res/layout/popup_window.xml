@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageButton
+        android:id="@+id/closeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"/>
+    <TextView
+        android:id="@+id/manualIndex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="操作説明"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:textSize="20dp"
+        android:padding="25sp"
+        />
+    <TextView
+        android:id="@+id/manualText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="画面左の方向ボタンをタップして"
+        android:layout_centerInParent="true"
+        android:padding="25sp"
+        />
+
+    <TextView
+        android:id="@+id/manualText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="キャラクターを動かそう"
+        android:layout_centerInParent="true"
+        />
+
+</RelativeLayout>

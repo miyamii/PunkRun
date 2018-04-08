@@ -1,0 +1,4 @@
+#Fri Mar 02 15:13:31 GMT+09:00 2018
+base.0=C\:\\Users\\miyata misaki\\AndroidStudioProjects\\PunkRun\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

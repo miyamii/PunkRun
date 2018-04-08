@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\miyata misaki\AndroidStudioProjects\PunkRun\app\src\main\assets"><file name="cinecaption226.ttf" path="C:\Users\miyata misaki\AndroidStudioProjects\PunkRun\app\src\main\assets\cinecaption226.ttf"/></source><source path="C:\Users\miyata misaki\AndroidStudioProjects\PunkRun\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\miyata misaki\AndroidStudioProjects\PunkRun\app\src\debug\assets"/></dataSet></merger>
